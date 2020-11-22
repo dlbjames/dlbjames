@@ -1,4 +1,4 @@
-<h1 align="center">Hello Hello 👋, I'm Darryl James</h1>
+<h1 align="center">Hello Hello 👋, I'm Darryl</h1>
 <h3 align="center">Driven Software Engineer looking to collaborate and make better solutions faster</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dlbjames" alt="dlbjames" /> </p>
@@ -11,11 +11,11 @@
 
 - 🔭 Check out my website [Here](https://dlbjames.github.io/)
 
-- 🌱 I’m currently learning **Java / Python / C**
+- 🌱 Growing and Proficient with **Java / Python / Go**
 
 - 🤝 I’m looking for help with consistently landing those **interviews**
 
-- 👨‍💻 All of my projects are available at **this very repo!**
+- 👨‍💻 Most of my projects are available at **this very repo!**
 
 - 📫 How to reach me **djames530@hotmail.com**
 
