@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dlbjames" alt="dlbjames" /> </p>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dlbjames/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/dlbjames/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/dlbjames/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/dlbjames/" height="30" width="30" /></a>
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlbjames&show_icons=true" alt="dlbjames" /></p>
 
