@@ -1,11 +1,11 @@
-<h1 align="center">Hello Hello 👋, I'm Darryl</h1>
-<h3 align="center">Driven Software Engineer looking to collaborate and make better solutions faster</h3>
+<h1 align="center">👋 - Hello Hello - 👋</h1>
+<h3 align="center">Driven Software Engineer looking to collaborate and make better solutions better</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dlbjames" alt="dlbjames" /> </p>
-<p align="center">
+<p> <img src="https://komarev.com/ghpvc/?username=dlbjames&color=green" alt="dlbjames"/> </p>
+<p>
 <a href="https://www.linkedin.com/in/dlbjames/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/dlbjames/" height="30" width="30" /></a>
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlbjames&show_icons=true" alt="dlbjames" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlbjames&show_icons=true" alt="dlbjames" /></p>
 
 
 
